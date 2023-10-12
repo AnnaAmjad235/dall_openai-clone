@@ -1,0 +1,228 @@
+body{
+    background-color: #000000;
+}
+.div{
+ color: white;
+ font-size: 17px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+ display: flex;
+ justify-content: space-between;
+ margin-right: 556px;
+}
+
+.headerleft{
+ display: flex;
+ align-items: center;
+ gap: 49px;
+}
+.headerright{
+ display: flex;
+ align-items: center;
+ gap:  34px;
+ margin-left: 467px;
+}
+
+.headingsearch{
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 15px;
+}
+
+.link{
+ text-decoration: none;
+ color: white;
+ font-size: 15px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.centerheading{
+ color: white;
+}
+.headingdall{
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size:100px;
+}
+.pargraph{
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 23px;
+}
+.btn1{
+color: white;
+ background-color: #000000;
+ border: 1px solid white;
+ width: 156px;
+ height: 45px;
+ gap: 10px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 17px;
+
+}
+.link2{
+ color: white;
+ gap: 15px;
+ font-size: 23px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ margin-left: 15px;
+}
+.centerheading{
+ 
+ 
+     margin-left: 13%;
+     margin-top: 18%;
+     font-size: 34px;
+}
+.div3{
+ display: flex;
+ margin-left: 45px;
+
+}
+
+.img{
+ width: 259px;
+}
+.ul{
+ color: white;
+ list-style: none;
+ display: flex;
+margin-right: 13px;
+ gap: 29px;
+
+}
+.div4{
+ border: 2px solid grey;
+ width: 678px;
+ height: 789px;
+ margin-left: 864px;
+}
+
+.marginlet{
+ margin-left: 110px;
+}
+
+.dall{
+ display: flex;
+ width: 463px;
+ gap: 10px;
+ margin-left: 145px;
+ 
+}
+
+.divwe{
+display: flex;
+}
+.divpic2{
+ color: white;
+ display: flex;
+ width: 234px;
+margin-left: 45px;
+}
+.divb{
+ border: 1px solid white;
+ height: 99px;
+}
+
+.btn2{
+ width: 156px;
+ height: 45px;
+ background-color: #000000;
+ border: 1px solid white;
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 18px;
+}
+
+.anchor{
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 18px;
+ text-decoration: none;
+
+}
+
+.iframe{
+ margin-left: 467px;
+ line-height: 234px;
+ width: 676px;
+ height: 789px;
+}
+
+.latest{
+font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 34px;
+ color: white;
+
+}
+.w{
+ color: white;
+ font-size: 23px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-decoration: none;
+}
+
+.link4{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 23px;
+ text-decoration: none;
+ color: white;
+      
+}
+
+.a{
+ color: white;
+ text-decoration: none;
+}
+
+.pargaraph{
+ font-size: 12;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-align: center;
+}
+
+.ul{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 23px;
+ line-height: 23PX;
+
+}
+.li{
+ color: grey;
+}
+
+.link67{
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 23px;
+}
+
+.bcv{
+ display: flex;
+}
+.linky{
+ color: white;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 43px;
+}
+
+.flex{
+ 
+ color: white;
+ font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+list-style: none;
+}
+.div{
+ display: flex;
+}
+.display{
+ color: white;
+ font-size: 30px;
+ display: flex;
+ list-style: none;
+ margin-left: 456px;
+ gap: 29px;
+}
+
